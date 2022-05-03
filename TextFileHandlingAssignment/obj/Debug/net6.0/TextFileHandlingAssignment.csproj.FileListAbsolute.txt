@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\TextFileHandlingAssignment\TextFileHandlingAssignment\obj\Debug\net6.0\TextFileHandlingAssignment.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\TextFileHandlingAssignment\TextFileHandlingAssignment\obj\Debug\net6.0\TextFileHandlingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\TextFileHandlingAssignment\TextFileHandlingAssignment\obj\Debug\net6.0\TextFileHandlingAssignment.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\TextFileHandlingAssignment\TextFileHandlingAssignment\obj\Debug\net6.0\TextFileHandlingAssignment.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\TextFileHandlingAssignment\TextFileHandlingAssignment\obj\Debug\net6.0\TextFileHandlingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\TextFileHandlingAssignment\TextFileHandlingAssignment\bin\Debug\net6.0\TextFileHandlingAssignment.exe
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\TextFileHandlingAssignment\TextFileHandlingAssignment\bin\Debug\net6.0\TextFileHandlingAssignment.deps.json
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\TextFileHandlingAssignment\TextFileHandlingAssignment\bin\Debug\net6.0\TextFileHandlingAssignment.runtimeconfig.json
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\TextFileHandlingAssignment\TextFileHandlingAssignment\bin\Debug\net6.0\TextFileHandlingAssignment.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\TextFileHandlingAssignment\TextFileHandlingAssignment\bin\Debug\net6.0\TextFileHandlingAssignment.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\TextFileHandlingAssignment\TextFileHandlingAssignment\obj\Debug\net6.0\TextFileHandlingAssignment.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\TextFileHandlingAssignment\TextFileHandlingAssignment\obj\Debug\net6.0\refint\TextFileHandlingAssignment.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\TextFileHandlingAssignment\TextFileHandlingAssignment\obj\Debug\net6.0\TextFileHandlingAssignment.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\TextFileHandlingAssignment\TextFileHandlingAssignment\obj\Debug\net6.0\TextFileHandlingAssignment.genruntimeconfig.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\TextFileHandlingAssignment\TextFileHandlingAssignment\obj\Debug\net6.0\ref\TextFileHandlingAssignment.dll
